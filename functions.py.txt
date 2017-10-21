@@ -1,0 +1,14 @@
+main():
+   n=int(input("enter the number"))
+   if(n/2==0):
+    print("given number is even")
+   else:
+    print("given number is odd")
+   pass
+
+if __name__ == '__main__':
+    main()
+*** Remote Interpreter Reinitialized  ***
+>>> 
+given number is odd
+>>> 
