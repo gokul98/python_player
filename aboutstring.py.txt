@@ -1,0 +1,11 @@
+ main():
+    mystring="programmer"
+    print(mystring.find("r"))
+    pass
+
+if __name__ == '__main__':
+    main()
+*** Remote Interpreter Reinitialized  ***
+>>> 
+1
+>>> 
